@@ -11,4 +11,4 @@ To run, just copy the code from `nitro.js`, paste it into the console, and run. 
 Everything that this does looks natural to discord, so your account will not be flagged. Multiple users have already used this and have not been banned.
 
 
-##### P.S. Please do not star this, I do not want very many people to find it. If it starts getting stars I will delete it.
+###### P.S. Please do not star this, I do not want very many people to find it. If it starts getting stars I will delete it.
