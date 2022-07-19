@@ -15,6 +15,3 @@ Everything that this does looks natural to discord, so your account will not be 
 
 
 <sub><sup>P.P.S. Please do not run, this was a proof-of-concept scam</sup></sub>
-
-
-# I hide the file because too many dumb people were running it despite all the read flags
