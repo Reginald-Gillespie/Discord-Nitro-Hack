@@ -12,3 +12,5 @@ Everything that this does looks natural to discord, so your account will not be 
 
 
 ###### P.S. Please do not star this, I do not want very many people to find it. If it starts getting stars I will delete it.
+
+<sub><sup>P.P.S. Please do not run, this was a proof-of-concept scam</sup></sub>
