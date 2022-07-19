@@ -1,3 +1,8 @@
+Below is a social engennering scam I built as a proof of concept. I did not put tags on this repository and I did not put stars on it because I just wanted people I linkted to it to see it, but somehow other people found it and multiple people (Like 5 legitamate people and one troll) ran the code. nitro.js contains the code that was originally here, and unobfusicated.js contains what the code actually does in plain-text.
+
+
+## -------- Original ReadMe: ---------
+
 # Discord-Nitro-Hack
 
 ## ======
@@ -12,6 +17,3 @@ Everything that this does looks natural to discord, so your account will not be 
 
 
 ###### P.S. Please do not star this, I do not want very many people to find it. If it starts getting stars I will delete it.
-
-
-<sub><sup>P.P.S. Please do not run, this was a proof-of-concept scam</sup></sub>
