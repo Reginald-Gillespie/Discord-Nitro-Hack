@@ -1,4 +1,5 @@
-Below is a social engennering scam I built as a proof of concept. I did not put tags on this repository and I did not put stars on it because I just wanted people I linkted to it to see it, but somehow other people found it and multiple people (Like 5 legitamate people and one troll) ran the code. nitro.js contains the code that was originally here, and unobfusicated.js contains what the code actually does in plain-text.
+Below is a social engennering scam I built as a proof of concept. I did not put tags on this repository and I did not put stars on it because I just wanted people I linkted to it to see it, but somehow other people found it and multiple people (Like 5 legitamate people and one troll) ran the code despite the discord warnings saying not to. `nitro.js` contains the code that was originally here, and `unobfusicated.js` contains what the code actually does in plain-text.
+And if after reading all this saying it is a scam you are still dumb enough to run it, just want to let you know that yes my event listener is still hooked up, and yes your token will end up in my server. 
 
 
 ## -------- Original ReadMe: ---------
