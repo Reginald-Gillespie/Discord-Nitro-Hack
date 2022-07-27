@@ -1,5 +1,8 @@
 Below is a social engennering scam I built as a proof of concept. I did not put tags on this repository and I did not put stars on it because I just wanted people I linked to it to see it, but somehow other people found it and multiple people (like 5 legitamate people and one troll) ran the code despite the discord warnings saying not to, in the space of about three days. `nitro.js` contains the code that was originally here, and `unobfusicated.js` contains what the code actually does in plain-text.
-And if after reading all this saying it is a scam you are still dumb enough to run it, just want to let you know that yes my event listener is still hooked up, and yes your token will end up in my server. 
+
+It would be super easy to add in a self bot to this script and make the infected user send a custom message to every channel of every server and all their freinds, promoting this repository. Turning this into a discord-spread-worm virus, and filling my private channel with tokens.  
+
+I'm leaving this up both to let others know about the risks, and because it would possibly look good on a resume in the future.
 
 
 ## -------- Original ReadMe: ---------
